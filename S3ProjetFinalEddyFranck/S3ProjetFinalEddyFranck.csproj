@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05026AD6-2481-42F0-9771-B68CDC69973F}</ProjectGuid>
+    <ProjectGuid>{0D1A57ED-337D-49D8-A733-1C85B56A125D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>S3Semaine1Lab1Exo1</RootNamespace>
-    <AssemblyName>S3Semaine1Lab1Exo1</AssemblyName>
+    <RootNamespace>S3ProjetFinalEddyFranck</RootNamespace>
+    <AssemblyName>S3ProjetFinalEddyFranck</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cpoint2.cs" />
-    <Compile Include="Cpoint3.cs" />
-    <Compile Include="Cpoints1.cs" />
+    <Compile Include="CCentreTri.cs" />
+    <Compile Include="CCentreTriImpaire.cs" />
+    <Compile Include="CCentreTriPair.cs" />
+    <Compile Include="CFerraille.cs" />
+    <Compile Include="CMatiere.cs" />
+    <Compile Include="CPapier.cs" />
+    <Compile Include="CPlastique.cs" />
+    <Compile Include="CTerre.cs" />
+    <Compile Include="CVaisseauCargo.cs" />
+    <Compile Include="CVaisseauLeger.cs" />
+    <Compile Include="CVaisseau.cs" />
+    <Compile Include="CVerre.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

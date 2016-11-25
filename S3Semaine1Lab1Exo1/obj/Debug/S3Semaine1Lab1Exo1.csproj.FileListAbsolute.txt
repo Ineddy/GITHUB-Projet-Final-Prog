@@ -1,6 +1,0 @@
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Debug\S3Semaine1Lab1Exo1.exe.config
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Debug\S3Semaine1Lab1Exo1.exe
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Debug\S3Semaine1Lab1Exo1.pdb
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Debug\S3Semaine1Lab1Exo1.csprojResolveAssemblyReference.cache
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Debug\S3Semaine1Lab1Exo1.exe
-c:\users\utilisateur\documents\visual studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Debug\S3Semaine1Lab1Exo1.pdb

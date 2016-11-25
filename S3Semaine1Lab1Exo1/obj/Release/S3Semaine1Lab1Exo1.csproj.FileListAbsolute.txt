@@ -1,6 +1,0 @@
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Release\S3Semaine1Lab1Exo1.exe.config
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Release\S3Semaine1Lab1Exo1.exe
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\bin\Release\S3Semaine1Lab1Exo1.pdb
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Release\S3Semaine1Lab1Exo1.csprojResolveAssemblyReference.cache
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Release\S3Semaine1Lab1Exo1.exe
-C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\S3Semaine1Lab1Exo1\S3Semaine1Lab1Exo1\obj\Release\S3Semaine1Lab1Exo1.pdb
