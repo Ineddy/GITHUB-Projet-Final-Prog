@@ -9,33 +9,27 @@ namespace S3ProjetFinalEddyFranck
     class CGestion
     {
         CVaisseauCargo vaisseau1 = new CVaisseauCargo();
-        //CVaisseauLeger vaisseau2 = new CVaisseauLeger();
-        CCentreTri ct1 = new CCentreTri();
-        CCentreTri ct2 = new CCentreTri();
-        Random R = new Random();
-
-        public CGestion() {
+        Random random = new Random();
+        public CGestion()
+        {
 
         }
 
         public int[] qteElement(int capacite)
         {
             int[] tabQteMateriaux = new int[5];
+           
+            tabQteMateriaux[0]= random.Next(1, capacite - 3);
+            tabQteMateriaux[1] = random.Next(1, capacite- tabQteMateriaux[0] - 2);
+            tabQteMateriaux[2] = random.Next(1, capacite - (tabQteMateriaux[0]+tabQteMateriaux[1]) - 1);
+            tabQteMateriaux[3] = random.Next(1, capacite - (tabQteMateriaux[0] + tabQteMateriaux[1]+tabQteMateriaux[2]));
+            tabQteMateriaux[4] = capacite - (tabQteMateriaux[0] + tabQteMateriaux[1] + tabQteMateriaux[2] + tabQteMateriaux[3]);
 
-            for (int i=0;i<=4;i++)
-            {
+            return tabQteMateriaux;
 
-
-            }
-
-            return null;
         }
 
-        public void testRemplirVaisseau() {
-            int[] tabElement = new int[5];
-            tabElement[0]=100;
-            vaisseau1.remplirVaisseaux(tabElement);
-            //Afficher le contenu des piles des tableaux
-        }
+
+
     }
 }
