@@ -1,4 +1,5 @@
-﻿using System;
+﻿//MAJ Remplir vaisseau
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,8 +26,10 @@ namespace S3ProjetFinalEddyFranck
 
 
         // Permet de remplir aléatoirement le vaisseau lors de sa création
-        private void remplirVaisseaux() {
-
+        public void remplirVaisseaux(int[] tabElement) {
+            for (int i = 0; i < 5; i++) {
+                this.tabQteMateriaux[i] = tabElement[i];
+            }
         }
 
         //Permet au vaisseau de se deplacer de file en file (déplacement interne et externe)
