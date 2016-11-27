@@ -15,18 +15,11 @@ namespace S3ProjetFinalEddyFranck
 
         }
 
-        public int Capacite
-        {
-            get { return capacite; }
-
-            set { capacite = value; }
-        }
-        
-
-
-        // Permet de remplir aléatoirement le vaisseau lors de sa création
-        private void remplirVaisseaux() {
-
+        // Permet de remplir aléatoirement  - ou pas - le vaisseau lors de sa création
+        public void remplirVaisseaux(int[] tabElement) {
+            for (int i = 0; i < 5; i++) {
+                this.tabQteMateriaux[i] = tabElement[i];
+            }
         }
 
         //Permet au vaisseau de se deplacer de file en file (déplacement interne et externe)
