@@ -1,3 +1,7 @@
 c:\users\utilisateur\documents\visual studio 2015\Projects\S3ProjetFinalEddyFranck\S3ProjetFinalEddyFranck\bin\Debug\S3ProjetFinalEddyFranck.exe.config
 C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\bin\Debug\S3ProjetFinalEddyFranck.exe.config
 C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\obj\Debug\S3ProjetFinalEddyFranck.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\bin\Debug\S3ProjetFinalEddyFranck.exe
+C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\bin\Debug\S3ProjetFinalEddyFranck.pdb
+C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\obj\Debug\S3ProjetFinalEddyFranck.exe
+C:\Users\utilisateur\Desktop\GITHUB-Projet-Final-Prog\S3ProjetFinalEddyFranck\obj\Debug\S3ProjetFinalEddyFranck.pdb

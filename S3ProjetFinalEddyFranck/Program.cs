@@ -1,4 +1,5 @@
-﻿//mise a jour le 27 novembre 2016 a 16h00
+﻿//mise a jour le 28/11/2016
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +14,17 @@ namespace S3ProjetFinalEddyFranck
         {
             CGestion maGestion = new CGestion();
 
-            //Test de la méthode CVaisseau > remplirVaisseaux
 
+            // Eddy - Test des méthodes CGestion > qteElement() et CVaisseau > remplirVaisseaux() 
+            CVaisseau vaisseauTest = new CVaisseau();
+            CVaisseauCargo vaisseauCargoTest = new CVaisseauCargo();
+            CVaisseauLeger vaisseauLegerTest = new CVaisseauLeger();
+
+            vaisseauTest.remplirVaisseaux(maGestion.qteElement(367));
+            vaisseauLegerTest.remplirVaisseaux(maGestion.qteElement(vaisseauLegerTest.Capacite));
+            vaisseauCargoTest.remplirVaisseaux(maGestion.qteElement(vaisseauCargoTest.Capacite));
+            Console.WriteLine("Place un point d'arret ici si tu veux vérifier les chargement aléatoires de tes vaisseaux");
+            Console.ReadLine();
         }
     }
 }
