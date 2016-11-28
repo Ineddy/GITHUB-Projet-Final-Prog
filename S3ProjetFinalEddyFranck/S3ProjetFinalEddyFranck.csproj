@@ -47,6 +47,7 @@
     <Compile Include="CCentreTriImpaire.cs" />
     <Compile Include="CCentreTriPair.cs" />
     <Compile Include="CFerraille.cs" />
+    <Compile Include="CGestion.cs" />
     <Compile Include="CMatiere.cs" />
     <Compile Include="CPapier.cs" />
     <Compile Include="CPlastique.cs" />
